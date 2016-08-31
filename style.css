@@ -9,5 +9,5 @@ p{
   }
 img{ width: 150px;
 height: auto;
-    position: right;
+   float: right;
 }
