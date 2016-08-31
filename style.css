@@ -8,4 +8,6 @@ p{
     text-align: left;
   }
 img{ width: 150px;
-height: auto;}
+height: auto;
+    position: right;
+}
