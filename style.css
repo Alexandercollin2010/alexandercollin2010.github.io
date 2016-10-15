@@ -19,6 +19,7 @@ height: auto;
 .pioneer { 
     background-image: url(https://upload.wikimedia.org/wikipedia/en/1/15/Pioneer_Seed_Logo.png);
     background-position: center right;
+    background-repeat: no-repeat;
   }
 .brookings {
     
