@@ -8,7 +8,7 @@ a{
   
 iframe{ width: 150px;
 height: auto;
-   float: right;
+   float: center;
    border: 10px solid maroon;
 }
 .adress { 
