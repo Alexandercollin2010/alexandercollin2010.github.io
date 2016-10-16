@@ -27,7 +27,9 @@ height: auto;
     background-repeat: no-repeat;
     }
 .skills h3 {
-    color: red;
+    color: maroon;
+    padding: 1px;
+    text-decoration: italic;
 }
 .highlights {
     
