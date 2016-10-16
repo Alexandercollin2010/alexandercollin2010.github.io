@@ -37,8 +37,9 @@ height: auto;
     color: black;
     
 }
-.highlights {
-    
+.highlights h3 {
+    color: maroon;
+    font-style: italic;
 }
 body {
     background-image: url(http://www.wcyofm.com/wp-content/uploads/2016/06/barn-1.jpg);
