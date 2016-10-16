@@ -21,11 +21,17 @@ height: auto;
     background-position: center right;
     background-repeat: no-repeat;
   }
+.pioneer p {
+    line-height:1px;
+}
 .brookings {
     background-image: url(https://i.ytimg.com/vi/cEXX7TWFr3A/mqdefault.jpg);
     background-position: center right;
     background-repeat: no-repeat;
     }
+.brookings p {
+    line-height: 1px;
+}
 .skills h3 {
     color: maroon;
     margin: 0px;
