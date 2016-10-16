@@ -29,7 +29,7 @@ height: auto;
 .skills h3 {
     color: maroon;
     margin: 1px;
-    text-decoration: italic;
+    font-style: italic;
 }
 .skills {
     
