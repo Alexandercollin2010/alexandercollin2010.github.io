@@ -24,6 +24,10 @@ height: auto;
 .pioneer p {
     line-height:1px;
 }
+.pioneer h2 {
+    color: maroon;
+    font-style: italic;
+}
 .brookings {
     background-image: url(https://i.ytimg.com/vi/cEXX7TWFr3A/mqdefault.jpg);
     background-position: center right;
@@ -31,6 +35,10 @@ height: auto;
     }
 .brookings p {
     line-height: 1px;
+}
+.brookings h2 {
+    color: maroon;
+    font-style: italic;
 }
 .skills h3 {
     color: maroon;
