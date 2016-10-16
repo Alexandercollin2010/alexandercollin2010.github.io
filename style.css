@@ -28,11 +28,11 @@ height: auto;
     }
 .skills h3 {
     color: maroon;
-    padding: 1px;
+    margin: 1px;
     text-decoration: italic;
 }
 .skills {
-    line-height: 1px;
+    
 }
 .highlights {
     
